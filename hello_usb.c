@@ -77,6 +77,8 @@ int main() {
                 free(sub_str);
 
             } else if (indexOf(cmd_buff, "READ") == 0) {
+
+                            //ET BT
                 printf("0.00,%d,0.00,0.00,0.00\n", (uint8_t)get_rand_32());
             }
 

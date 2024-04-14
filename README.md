@@ -17,4 +17,4 @@ COMポートを確認し、通信速度などはデフォルトでOK
 タイムアウト：　0.8
 
 ### 参考
-[Aruduinoのシンプルな温度のみの送信例](https://github.com/FilePhil/TC4-Emulator)
+[Aruduinoのシンプルな温度のみの送信例](https://github.com/FilePhil/TC4-Emulator)　<- ありがとうございます。
